@@ -2,7 +2,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMentat&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevMentat&theme=radical)
 
-# Hi there, I'm Nathan! 👋
+# Hi there, I'm DevMentat! 👋
 
 I'm a DevSecOps Engineer with a passion for automatisation. I love working on cutting-edge technologies and finding innovative solutions to complex problems.
 
